@@ -4,7 +4,7 @@
 
 Objectify is an advanced object detection web application powered by TensorFlow's COCO-SSD (Common Objects in Context - Single Shot Multibox Detector) model. The application provides real-time object detection capabilities with a modern, responsive user interface.
 
-![Project Preview](project-preview.png)
+![Project Preview](https://cloud-fhubke6oq-hack-club-bot.vercel.app/0image.png)
 
 ## 🌟 Features
 
