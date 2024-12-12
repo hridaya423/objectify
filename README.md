@@ -33,10 +33,10 @@ Before installation, ensure you have:
 
 ```bash
 # HTTPS
-git clone https://github.com/yourusername/objectify.git
+git clone https://github.com/hridaya423/objectify.git
 
 # Or SSH
-git clone git@github.com:yourusername/objectify.git
+git clone git@github.com:hridaya423/objectify.git
 
 # Navigate to project directory
 cd objectify
